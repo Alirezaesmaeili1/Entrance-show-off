@@ -83,8 +83,11 @@ Material:
     - _AlphaClip: 0
     - _Blend: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     - _BlendModePreserveSpecular: 1
     - _BlendOp: 0
+=======
+>>>>>>> parent of 17d6b5e (changing version)
 =======
 >>>>>>> parent of 17d6b5e (changing version)
     - _BumpScale: 1
